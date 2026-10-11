@@ -17,6 +17,7 @@
 <h3>Languages</h3>
 <p>
 <img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=cpp" />
 </p>
 
 <h3>Frameworks</h3>
