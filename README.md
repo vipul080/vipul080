@@ -43,6 +43,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vipul080&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=vipul080&hide_border=true" alt="GitHub streak" />
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fvipul080%2Fvipul080%2Fstats%2Fcontributions.json&style=for-the-badge&cacheSeconds=3600" alt="Contributions this year" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vipul080&show_icons=true&hide_border=true&count_private=true&hide=commits" alt="GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=vipul080&hide_border=true&hide_total_contributions=true" alt="GitHub streak" />
 </p>
