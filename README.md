@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:1B5E20&height=200&section=header&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
-<h1>Hi there, I am Vipul Shukla 👋</h1>
+<h1>Hi there, I am Vipul Shukla </h1>
 
 <p>
 - I'm a Java Backend Developer building secure, production-style REST APIs<br/>
